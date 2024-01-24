@@ -1,0 +1,7 @@
+pt_nu,name,visit_date,fu_date,reason
+1,joe,1/22/24,2/22/24,bloodwork
+2,jane,1/22/24,3/22/24,scans
+3,john,1/22/24,4/22/24,bloodwork and scans
+4,jackie,1/22/24,5/22/24,needy parent
+5,jose,1/22/24,6/22/24,3rd party assessment
+6,juliet,1/22/24,7/22/24,genetics
